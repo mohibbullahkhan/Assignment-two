@@ -25,3 +25,15 @@
 .image-three{
     background-image: url(./assets/deal-zabo.png);
 }
+
+.comment{
+    background-image: url(./assets/news-letter-bg.png);
+    height: 533vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+}
+.button{
+s
+}
