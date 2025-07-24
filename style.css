@@ -28,12 +28,15 @@
 
 .comment{
     background-image: url(./assets/news-letter-bg.png);
-    height: 533vh;
-    width: 100%;
+   
+   
     background-repeat: no-repeat;
+   width: 100%;
     align-items: center;
     text-align: center;
 }
 .button{
-s
+    background-color: #E95A08;
+    height: 50px;
+    width: 186;
 }
